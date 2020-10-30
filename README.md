@@ -7,7 +7,7 @@
 </p>
 
 I'm a software developer with a good background in Java programming. 
-Though I had acted in Back-End in the last year, now I'm growing more as a Android developper.
+Though I had acted in Back-End in the last year, now I'm growing more as a Android developer.
 Here you can check some of my projects built with Kotlin and with the Android Jetpack components.
 
 - 🌱 I’m currently learning Python and Data Science
