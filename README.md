@@ -1,7 +1,11 @@
-### Hey you! Welcome!
+### Welcome!
 
-# 📫 How to reach me: 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> adielwesley
+#### 📫 How to reach me: 
+<p>
+  <a href="https://www.linkedin.com/in/adielwesley" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> Linkedin
+  </a> &nbsp; 
+</p>
 
 <!--
 **adielwesley/adielwesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
